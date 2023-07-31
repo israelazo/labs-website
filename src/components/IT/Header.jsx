@@ -18,8 +18,7 @@ const Header = () => {
           <div className="col-lg-10">
             <div className="content text-center text-light text-capitalize">
               <div className="top_info">
-                <h1 className="text-uppercase">Gravity</h1>
-                <h1 className="text-uppercase">Labs</h1>
+                <h1 className="text-uppercase">Gravity Labs</h1>
                 <p className="fw-light text-uppercase">
                   Best Solutions for <br /> <strong className="fw-bold">Big Data & TEchnology</strong> Services
                 </p>

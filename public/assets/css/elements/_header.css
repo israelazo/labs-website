@@ -114,10 +114,10 @@ header.style-2 .content {
 }
 
 header.style-2 .content h1 {
-  font-size: 123px;
-  letter-spacing: 75px;
-  display: inline-block;
-  padding-left: 75px;
+  font-size: 71px;
+            letter-spacing: 6px;
+            display: inline-block;
+            /* padding-left: 75px;*/
 }
 
 header.style-2 .content p {
