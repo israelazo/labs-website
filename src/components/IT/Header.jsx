@@ -20,7 +20,7 @@ const Header = () => {
               <div className="top_info">
                 <h1 className="text-uppercase">Gravity Labs</h1>
                 <p className="fw-light text-uppercase">
-                  Best Solutions for <br /> <strong className="fw-bold">Big Data & TEchnology</strong> Services
+                  Best Solgndfhushfgsndjksutions for <br /> <strong className="fw-bold">Big Data & TEchnology</strong> Services
                 </p>
                 <a href="https://youtu.be/pGbIOC83-So?t=21" className="vid-btn" onClick={openVideo}>
                   <i className="bi bi-play-fill wow heartBeat infinite slower"></i>
