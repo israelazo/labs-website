@@ -16,7 +16,7 @@ const HomeITSolutionsOnePage = () => {
   return (
     <>
       <Head>
-        <title>Iteck - IT Solutions One Page</title>
+        <title>Gravity Labs - IT Solutions</title>
       </Head>
 
       <MainLayout scrollTopText>
@@ -25,9 +25,9 @@ const HomeITSolutionsOnePage = () => {
         <main>
           <Services />
           <ChooseUs />
-          <Reviews />
-          <Pricing />
-          <Blog />
+          {/* <Reviews /> */}
+          {/* <Pricing /> */}
+          {/* <Blog /> */}
           <Contact />
         </main>
         <Footer />
