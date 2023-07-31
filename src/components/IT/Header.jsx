@@ -6,11 +6,6 @@ import "react-modal-video/css/modal-video.css";
 const Header = () => {
   const [isOpen, setOpen] = useState(false);
 
-  const openVideo = (event) => {
-    event.preventDefault();
-    setOpen(true);
-  }
-
   return (
     <header className="style-2 overflow-hidden"  data-scroll-index="1">
       <div className="container">
@@ -20,13 +15,13 @@ const Header = () => {
               <div className="top_info">
                 <h1 className="text-uppercase">Gravity Labs</h1>
                 <p className="fw-light text-uppercase">
-                  Best Solgndfhushfgsndjksutions for <br /> <strong className="fw-bold">Big Data & TEchnology</strong> Services
+                  Best Solutions for <br /> <strong className="fw-bold">Big Data & Technology</strong> Services
                 </p>
-                <a href="https://youtu.be/pGbIOC83-So?t=21" className="vid-btn" onClick={openVideo}>
-                  <i className="bi bi-play-fill wow heartBeat infinite slower"></i>
-                </a>
+                <a className="sm-butn btn border text-white radius-9 hover-lightBlue m-2 mt-50">
+                <span>Let’s Chat</span>
+              </a>
               </div>
-              <div className="brands mt-200 mb-80">
+              <div className="brands mt-100 mb-80">
                 <a href="#" className="logo wow fadeInUp" data-wow-delay="0">
                   <img src="/assets/img/about/about_logos/1.png" alt="" />
                 </a>
@@ -38,6 +33,20 @@ const Header = () => {
                 </a>
                 <a href="#" className="logo wow fadeInUp" data-wow-delay="0.6s">
                   <img src="/assets/img/about/about_logos/4.png" alt="" />
+                </a>
+                <a href="#" className="logo wow fadeInUp" data-wow-delay="0.8s">
+                  <img src="/assets/img/about/about_logos/5.png" alt="" />
+                </a>
+              </div>
+              <div className="brands mb-80">
+                <a href="#" className="logo wow fadeInUp" data-wow-delay="0">
+                  <img src="/assets/img/about/about_logos/1.png" alt="" />
+                </a>
+                <a href="#" className="logo wow fadeInUp" data-wow-delay="0.2s">
+                  <img src="/assets/img/about/about_logos/2.png" alt="" />
+                </a>
+                <a href="#" className="logo wow fadeInUp" data-wow-delay="0.4s">
+                  <img src="/assets/img/about/about_logos/3.png" alt="" />
                 </a>
                 <a href="#" className="logo wow fadeInUp" data-wow-delay="0.8s">
                   <img src="/assets/img/about/about_logos/5.png" alt="" />
@@ -59,18 +68,6 @@ const Header = () => {
         </div>
       </div>
       <img src="/assets/img/header/header_2.png" alt="" className="head_shape2 wave" />
-      {
-        typeof window !== "undefined" && 
-          (
-            <ModalVideo
-              channel="youtube"
-              autoplay
-              isOpen={isOpen}
-              videoId="pGbIOC83-So"
-              onClose={() => setOpen(false)}
-            />
-          )
-      }
     </header>
   )
 }
