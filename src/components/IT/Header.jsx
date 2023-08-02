@@ -14,9 +14,9 @@ const Header = () => {
               <div className="top_info">
                 <h1 className="text-uppercase">Gravity Labs</h1>
                 <p className="fw-light text-uppercase">
-                  Best Solutions for <br /> <strong className="fw-bold">Big Data & Technology</strong> Services
+                  Empowering <strong className="fw-bold">Global Businesses</strong> with <br />  <strong className="fw-bold"> Delightful Products & Services</strong> 
                 </p>
-                <a href="https://t6a69iguvx7.typeform.com/to/NG9Z9y9x" target="_blank" rel="noreferrer" className="sm-butn btn border text-white radius-9 hover-lightBlue m-2 mt-50">
+                <a href="https://wa.me/34600972912" target="_blank" rel="noreferrer" className="sm-butn btn border text-white radius-9 hover-lightBlue m-2 mt-50">
                 <span>Let’s Chat</span>
               </a>
               </div>
@@ -55,14 +55,16 @@ const Header = () => {
                 </a>
               </div>
               <h4>
-                We can help to maintain and modernize <br /> your IT infrastructure & solve various infrastructure-specific <br /> issues a business may face.
+
+                Software development Lab dedicated to <br /> designing, developing, launching, and scaling your projects. <br /> Solving any tech challenge your business may face.
+                
               </h4>
               <p className="d-block mt-40">
-                Iteck Co is the partner of choice for many of the world’s leading <br /> enterprises, SMEs and technology challengers. We help businesses elevate their value through <br /> custom software development, product design, QA and consultancy services.
+                GravityLabs is the partner of choice for many of the world’s leading <br /> enterprises, SMEs and technology challengers. We help businesses elevate their value through <br /> custom software development, product design, QA and consultancy services.
               </p>
-              <Link href="/page-about-5">
+              <Link href="https://t6a69iguvx7.typeform.com/to/NG9Z9y9x">
                 <a className="btn sm-butn border text-white radius-9 mt-60 hover-darkBlue">
-                  <span>More About Us</span>
+                  <span>Get in touch!</span>
                 </a>
               </Link>
             </div>

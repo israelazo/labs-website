@@ -12,7 +12,7 @@ const Footer = () => {
           </div>
           <div className="col-lg-6">
             <div className="foot_links text-uppercase text-center small">
-              <Link href="/home-it-solutions">
+              <Link href="/">
                 <a className="mx-4">
                   Home
                 </a>
@@ -27,11 +27,11 @@ const Footer = () => {
                   services
                 </a>
               </Link>
-              <Link href="/page-portfolio-5">
+              {/* <Link href="/page-portfolio-5">
                 <a className="mx-4">
                   portfolio
                 </a>
-              </Link>
+              </Link> */}
               <Link href="/page-blog-5">
                 <a className="mx-4">
                   news
@@ -58,8 +58,8 @@ const Footer = () => {
         </div>
         <div className="text-center mt-30">
           <div className="small">
-            <span className="op-6">© 2022 Copyrights by </span>
-            <a href="#" className="mx-1">Iteck Co.</a>
+            <span className="op-6">© 2018 Copyrights by </span>
+            <a href="#" className="mx-1">Gravity Labs</a>
             <span className="op-6"> All Rights Reserved.</span>
           </div>
         </div>
