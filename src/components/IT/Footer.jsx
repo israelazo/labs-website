@@ -19,7 +19,7 @@ const Footer = () => {
               </Link>
               <Link href="/page-about-5">
                 <a className="mx-4">
-                  about
+                  about us
                 </a>
               </Link>
               <Link href="/page-services-5">
@@ -34,7 +34,7 @@ const Footer = () => {
               </Link> */}
               <Link href="/page-blog-5">
                 <a className="mx-4">
-                  news
+                  get in touch!
                 </a>
               </Link>
             </div>
