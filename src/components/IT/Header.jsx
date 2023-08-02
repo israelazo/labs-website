@@ -1,6 +1,5 @@
 import { useState } from 'react';
 import Link from 'next/link';
-import ModalVideo from "react-modal-video";
 import "react-modal-video/css/modal-video.css";
 
 const Header = () => {
@@ -17,7 +16,7 @@ const Header = () => {
                 <p className="fw-light text-uppercase">
                   Best Solutions for <br /> <strong className="fw-bold">Big Data & Technology</strong> Services
                 </p>
-                <a className="sm-butn btn border text-white radius-9 hover-lightBlue m-2 mt-50">
+                <a href="https://t6a69iguvx7.typeform.com/to/NG9Z9y9x" target="_blank" rel="noreferrer" className="sm-butn btn border text-white radius-9 hover-lightBlue m-2 mt-50">
                 <span>Let’s Chat</span>
               </a>
               </div>
@@ -39,16 +38,19 @@ const Header = () => {
                 </a>
               </div>
               <div className="brands mb-80">
-                <a href="#" className="logo wow fadeInUp" data-wow-delay="0">
-                  <img src="/assets/img/about/about_logos/1.png" alt="" />
+                <a className="logo wow fadeInUp" data-wow-delay="0">
+                  <img src="/assets/img/about/about_logos/ethereum.png" alt="" />
                 </a>
-                <a href="#" className="logo wow fadeInUp" data-wow-delay="0.2s">
-                  <img src="/assets/img/about/about_logos/2.png" alt="" />
+                <a className="logo wow fadeInUp" data-wow-delay="0.2s">
+                  <img src="/assets/img/about/about_logos/gcp.png" alt="" />
                 </a>
-                <a href="#" className="logo wow fadeInUp" data-wow-delay="0.4s">
-                  <img src="/assets/img/about/about_logos/3.png" alt="" />
+                <a className="logo wow fadeInUp" data-wow-delay="0.2s">
+                  <img src="/assets/img/about/about_logos/aws.png" alt="" />
                 </a>
-                <a href="#" className="logo wow fadeInUp" data-wow-delay="0.8s">
+                <a className="logo wow fadeInUp" data-wow-delay="0.4s">
+                  <img src="/assets/img/about/about_logos/openai.png" alt="" />
+                </a>
+                <a className="logo wow fadeInUp" data-wow-delay="0.8s">
                   <img src="/assets/img/about/about_logos/5.png" alt="" />
                 </a>
               </div>

@@ -82,7 +82,7 @@ const Services = () => {
             </div>
           </div>
         </div>
-        <div data-scroll-index="3" data-scroll-internal-section>
+        {/* <div data-scroll-index="3" data-scroll-internal-section>
           <div className="section-head mb-30 text-center">
             <h2 className="text-white ltspc-20 text-uppercase fs-1 lh-1 mb-70 pt-100">works</h2>
           </div>
@@ -164,7 +164,7 @@ const Services = () => {
               </a>
             </Link>
           </div>
-        </div>
+        </div> */}
       </div>
     </section>
   )

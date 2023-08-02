@@ -55,29 +55,29 @@ const OnePageNav = () => {
                 services
               </a>
             </li>
-            <li className="nav-item">
+            {/* <li className="nav-item">
               <a className="nav-link" data-scroll-nav="3" onClick={scrollToSection}>
                 portfolio
               </a>
-            </li>
+            </li> */}
             <li className="nav-item">
-              <a className="nav-link" data-scroll-nav="4" onClick={scrollToSection}>
+              <a className="nav-link" data-scroll-nav="3" onClick={scrollToSection}>
                 why us
               </a>
             </li>
-            <li className="nav-item">
+            {/* <li className="nav-item">
               <a className="nav-link" data-scroll-nav="5" onClick={scrollToSection}>
                 testimonials
               </a>
-            </li>
-            <li className="nav-item">
+            </li> */}
+            {/* <li className="nav-item">
               <a className="nav-link" data-scroll-nav="6" onClick={scrollToSection}>
                 pricing
               </a>
-            </li>
+            </li> */}
             <li className="nav-item">
-              <a className="nav-link" data-scroll-nav="7" onClick={scrollToSection}>
-                blog
+              <a href="https://t6a69iguvx7.typeform.com/to/NG9Z9y9x" data-scroll-nav="0" target="_blank" rel="noreferrer" className="nav-link">
+                contact us
               </a>
             </li>
           </ul>

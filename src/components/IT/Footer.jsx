@@ -41,7 +41,7 @@ const Footer = () => {
           </div>
           <div className="col-lg-3 col-sm-6 text-end">
             <div className="socail-icons">
-              <a href="#" className="icon-40 sm-butn btn border text-white rounded-circle hover-lightBlue border-lightBlue m-1 p-0 d-inline-flex align-items-center justify-content-center">
+              {/* <a href="#" className="icon-40 sm-butn btn border text-white rounded-circle hover-lightBlue border-lightBlue m-1 p-0 d-inline-flex align-items-center justify-content-center">
                 <i className="fab fa-twitter"></i>
               </a>
               <a href="#" className="icon-40 sm-butn btn border text-white rounded-circle hover-lightBlue border-lightBlue m-1 p-0 d-inline-flex align-items-center justify-content-center">
@@ -52,7 +52,7 @@ const Footer = () => {
               </a>
               <a href="#" className="icon-40 sm-butn btn border text-white rounded-circle hover-lightBlue border-lightBlue m-1 p-0 d-inline-flex align-items-center justify-content-center">
                 <i className="fab fa-github"></i>
-              </a>
+              </a> */}
             </div>
           </div>
         </div>
