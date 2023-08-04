@@ -22,37 +22,37 @@ const Header = () => {
               </div>
               <div className="brands mt-100 mb-80">
                 <a href="#" className="logo wow fadeInUp" data-wow-delay="0">
-                  <img src="/assets/img/about/about_logos/1.png" alt="" />
+                  <img src="/assets/img/about/about_logos/walmart.png" alt="" />
                 </a>
                 <a href="#" className="logo wow fadeInUp" data-wow-delay="0.2s">
-                  <img src="/assets/img/about/about_logos/2.png" alt="" />
+                  <img src="/assets/img/about/about_logos/redbull.png" alt="" />
                 </a>
                 <a href="#" className="logo wow fadeInUp" data-wow-delay="0.4s">
-                  <img src="/assets/img/about/about_logos/3.png" alt="" />
+                  <img src="/assets/img/about/about_logos/zurich.png" alt="" />
                 </a>
                 <a href="#" className="logo wow fadeInUp" data-wow-delay="0.6s">
-                  <img src="/assets/img/about/about_logos/4.png" alt="" />
+                  <img src="/assets/img/about/about_logos/hdi.png" alt="" />
                 </a>
-                <a href="#" className="logo wow fadeInUp" data-wow-delay="0.8s">
+                {/* <a href="#" className="logo wow fadeInUp" data-wow-delay="0.8s">
                   <img src="/assets/img/about/about_logos/5.png" alt="" />
-                </a>
+                </a> */}
               </div>
               <div className="brands mb-80">
                 <a className="logo wow fadeInUp" data-wow-delay="0">
-                  <img src="/assets/img/about/about_logos/ethereum.png" alt="" />
+                  <img src="/assets/img/about/about_logos/ethereum2.png" alt="" />
                 </a>
                 <a className="logo wow fadeInUp" data-wow-delay="0.2s">
                   <img src="/assets/img/about/about_logos/gcp.png" alt="" />
                 </a>
                 <a className="logo wow fadeInUp" data-wow-delay="0.2s">
-                  <img src="/assets/img/about/about_logos/aws.png" alt="" />
+                  <img src="/assets/img/about/about_logos/aws2.png" alt="" />
                 </a>
                 <a className="logo wow fadeInUp" data-wow-delay="0.4s">
                   <img src="/assets/img/about/about_logos/openai.png" alt="" />
                 </a>
-                <a className="logo wow fadeInUp" data-wow-delay="0.8s">
+                {/* <a className="logo wow fadeInUp" data-wow-delay="0.8s">
                   <img src="/assets/img/about/about_logos/5.png" alt="" />
-                </a>
+                </a> */}
               </div>
               <h4>
 

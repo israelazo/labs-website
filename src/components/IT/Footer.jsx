@@ -22,12 +22,12 @@ const Footer = () => {
                   about us
                 </a>
               </Link> */}
-              <Link href="/page-services-5">
+              {/* <Link href="/page-services-5">
                 <a className="mx-4">
                   services
                 </a>
-              </Link>
-              <Link href="https://t6a69iguvx7.typeform.com/to/NG9Z9y9x">
+              </Link> */}
+              <Link href="https://drive.google.com/file/d/1dU77wr4G2WonKUWkjsTlAUKf7YsKUpqy/view?usp=sharing">
                 <a className="mx-4">
                   product offering
                 </a>
