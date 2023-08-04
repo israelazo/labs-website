@@ -4,13 +4,13 @@
       "image": "/assets/img/icons/serv_icons/7.png",
       "title": "IT Consultation",
       "desc": "Enhance performance, scalability & competitiveness with our IT consulting & digital transformation services",
-      "tags": ["Strategy", "Consultation", "Management", "Infrastructure", "Security"]
+      "tags": ["Strategy", "Consultation", "Management", "Cloud Infrastructure", "Architecture", "Security"]
     },
     {
       "image": "/assets/img/icons/serv_icons/8.png",
       "title": "Custom Software",
       "desc": "Our company offers top-notch IT solutions tailored to suit your business needs.",
-      "tags": ["Ecommerce", "Web APPs", "UX/UI", "Product Development", "Gaming", "iOS & Android"]
+      "tags": ["Web Apps", "iOS & Android", "UX/UI", "Product Development", "Ecommerce", "Gaming", "GPT", "Payment"]
     },
     {
       "image": "/assets/img/icons/serv_icons/9.png",

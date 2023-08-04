@@ -17,22 +17,22 @@ const Footer = () => {
                   Home
                 </a>
               </Link>
-              <Link href="/page-about-5">
+              {/* <Link href="/page-about-5">
                 <a className="mx-4">
                   about us
                 </a>
-              </Link>
+              </Link> */}
               <Link href="/page-services-5">
                 <a className="mx-4">
                   services
                 </a>
               </Link>
-              {/* <Link href="/page-portfolio-5">
+              <Link href="https://t6a69iguvx7.typeform.com/to/NG9Z9y9x">
                 <a className="mx-4">
-                  portfolio
+                  product offering
                 </a>
-              </Link> */}
-              <Link href="/page-blog-5">
+              </Link>
+              <Link href="https://t6a69iguvx7.typeform.com/to/NG9Z9y9x">
                 <a className="mx-4">
                   get in touch!
                 </a>
