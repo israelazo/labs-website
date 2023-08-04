@@ -63,7 +63,7 @@ const Header = () => {
                 GravityLabs is the partner of choice for many of the world’s leading <br /> enterprises, SMEs and technology challengers. We help businesses elevate their value through <br /> custom software development, product design, QA and consultancy services.
               </p>
               <Link href="https://t6a69iguvx7.typeform.com/to/NG9Z9y9x">
-                <a className="btn sm-butn border text-white radius-9 mt-60 hover-darkBlue">
+                <a className="btn sm-butn border text-white radius-9 mt-60 hover-darkBlue" target="_blank" rel="noreferrer">
                   <span>Get in touch!</span>
                 </a>
               </Link>

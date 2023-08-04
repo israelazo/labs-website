@@ -11,12 +11,12 @@ const Contact = () => {
           <h4 className="fw-normal mb-30 op-7">Worldwide remote services</h4>
           <div className="text-center">
             <Link href="https://wa.me/34600972912">
-              <a className="sm-butn btn border text-white radius-9 hover-lightBlue border-lightBlue m-2">
+              <a className="sm-butn btn border text-white radius-9 hover-lightBlue border-lightBlue m-2" target="_blank" rel="noreferrer">
                 <span>Let’s Chat</span>
               </a>
             </Link>
             <Link href="https://t6a69iguvx7.typeform.com/to/NG9Z9y9x">
-              <a className="sm-butn btn border text-white radius-9 hover-lightBlue border-lightBlue m-2">
+              <a className="sm-butn btn border text-white radius-9 hover-lightBlue border-lightBlue m-2" target="_blank" rel="noreferrer">
                 <span>Request Consultation</span>
               </a>
             </Link>

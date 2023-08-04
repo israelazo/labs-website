@@ -68,7 +68,7 @@ const Services = () => {
                         <p className="op-7 mt-20 mb-30 px-3">{ service.desc }</p>
                         <div className="tags d-flex flex-wrap justify-content-center mt-30 style-2">
                           {
-                            service.tags.map((tag, i) => (<a href="#" key={i}>{ tag }</a>))
+                            service.tags.map((tag, i) => (<a href="javascript:void(0)" key={i}>{ tag }</a>)) // Elimine el href="#"
                           }
                         </div>
                       </div>

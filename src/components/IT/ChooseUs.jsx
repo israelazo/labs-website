@@ -36,7 +36,7 @@ const ChooseUs = () => {
                 }
               </ul>
               <Link href="https://t6a69iguvx7.typeform.com/to/NG9Z9y9x">
-                <a className="btn sm-butn border text-white radius-9 mt-70 hover-darkBlue">
+                <a className="btn sm-butn border text-white radius-9 mt-70 hover-darkBlue" target="_blank" rel="noreferrer">
                   <span>Get in Touch!</span>
                 </a>
               </Link>
