@@ -16,7 +16,7 @@ const Header = () => {
                 <p className="fw-light text-uppercase">
                   Empowering <strong className="fw-bold">Global Businesses</strong> with <br />  <strong className="fw-bold"> Delightful Products & Services</strong> 
                 </p>
-                <a href="https://wa.me/34600972912" target="_blank" rel="noreferrer" className="sm-butn btn border text-white radius-9 hover-lightBlue m-2 mt-50">
+                <a href="https://wa.me/34600972912" target="_blank" rel="noreferrer" className="sm-butn btn border text-white radius-9 hover-lightBlue m-2 mt-50" style={{'backgroundColor': '#02b5ff'}}>
                 <span>Let’s Chat</span>
               </a>
               </div>
