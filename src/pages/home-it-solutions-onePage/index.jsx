@@ -24,7 +24,7 @@ const HomeITSolutionsOnePage = () => {
         <Header />
         <main>
           <Services />
-          {/* <ChooseUs /> */}
+          <ChooseUs />
           {/* <Reviews /> */}
           {/* <Pricing /> */}
           {/* <Blog /> */}

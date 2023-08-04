@@ -1,23 +1,27 @@
 [
+  
   {
-    "image": "/assets/img/icons/ch1.png",
-    "title": "Affordable Price",
+    "image": "/assets/img/icons/ch2.png",
+    "title": "World-class talent",
     "desc": {
-      "desc1": "Nanotechnology immersion along the information high",
-      "desc2": "will close the loop on focusing solely"
+      "desc1": "Our team comprises experts across various tech disciplines, is dedicated to transforming your vision into reality.",
+      "desc2": "We rapidly assemble high-performing teams that fit your needs."
     }
   },
   {
-    "image": "/assets/img/icons/ch2.png",
-    "title": "Top-notch Experts Consulting",
+    "image": "/assets/img/icons/ch1.png",
+    "title": "Transparent Pricing",
     "desc": {
-      "desc1": "Our top-notch Experts with much years of experience",
-      "desc2": "certail will give best solutions for your business"
+      "desc1": "Experience top-tier software solutions at competitive rates.",
+      "desc2": "We believe in full transparency and predictability in our pricing."
     }
   },
   {
     "image": "/assets/img/icons/ch3.png",
-    "title": "Dedicated Support 24/7",
-    "desc": "Customer support is always our number one priority."
+    "title": "Delivery of Impactful Results",
+    "desc": {
+      "desc1": "Your success is our priority, we make sure to deliver solutions that create a real impact.",
+      "desc2": "We are committed to achieving results that drive your business forward."
+    }
   }
 ]

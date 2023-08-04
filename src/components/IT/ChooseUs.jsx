@@ -4,10 +4,10 @@ import chooseUsData from '@data/IT/chooseus.json';
 
 const ChooseUs = () => {
   return (
-    <section className="choose-us style-2 border-top bg-darkBlue brd-light section-padding" data-scroll-index="4">
+    <section className="choose-us style-2 border-top bg-darkBlue brd-light section-padding" data-scroll-index="3">
       <div className="container">
         <div className="section-head mb-30 text-center">
-          <h2 className="text-white ltspc-20 text-uppercase fs-1 lh-1 mb-70">why choose us</h2>
+          <h2 className="text-white ltspc-20 text-uppercase fs-1 lh-1 mb-70">Why Partner with Us?</h2>
         </div>
         <div className="row align-items-center">
           <div className="col-lg-6">
@@ -17,7 +17,7 @@ const ChooseUs = () => {
           </div>
           <div className="col-lg-6">
             <div className="info">
-              <p className="text-white text-uppercase mb-60">We create differentiated value to rise to the <br /> top in this field</p>
+              <p className="text-white text-uppercase mb-60">Your digital transformation ally, <br /> delivering value at every step</p>
               <ul>
                 {
                   chooseUsData.map((item, index) => (
@@ -35,15 +35,15 @@ const ChooseUs = () => {
                   ))
                 }
               </ul>
-              <Link href="/page-contact-5">
+              <Link href="https://t6a69iguvx7.typeform.com/to/NG9Z9y9x">
                 <a className="btn sm-butn border text-white radius-9 mt-70 hover-darkBlue">
-                  <span>Request A Consultation</span>
+                  <span>Get in Touch!</span>
                 </a>
               </Link>
             </div>
           </div>
         </div>
-        <Numbers />
+        {/* <Numbers /> */}
       </div>
     </section>
   )

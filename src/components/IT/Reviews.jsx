@@ -15,7 +15,7 @@ const Reviews = () => {
     <section className="reviews style-2 border-top brd-light section-padding bg-darkBlue" data-scroll-index="5">
       <div className="container">
         <div className="section-head mb-30 text-center">
-          <h2 className="text-white ltspc-20 text-uppercase fs-1 lh-1 mb-70">reviews</h2>
+          <h2 className="text-white ltspc-20 text-uppercase fs-1 lh-1 mb-70">What clients say</h2>
         </div>
         <div className="reviews_slider">
           <Swiper

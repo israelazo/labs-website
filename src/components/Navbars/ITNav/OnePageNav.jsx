@@ -76,11 +76,12 @@ const OnePageNav = () => {
               </a>
             </li> */}
             <li className="nav-item">
-              <a href="https://t6a69iguvx7.typeform.com/to/NG9Z9y9x" data-scroll-nav="0" target="_blank" rel="noreferrer" className="nav-link">
+              <a href="https://t6a69iguvx7.typeform.com/to/NG9Z9y9x"  target="_blank" rel="noreferrer" className="nav-link">
                 contact us
               </a>
             </li>
           </ul>
+          
         </div>
       </div>
     </nav>
