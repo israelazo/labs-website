@@ -27,7 +27,7 @@ const Footer = () => {
                   services
                 </a>
               </Link> */}
-              <Link href="https://drive.google.com/file/d/1dU77wr4G2WonKUWkjsTlAUKf7YsKUpqy/view?usp=sharing">
+              <Link href="https://drive.google.com/file/d/10RwWdICTKCwbxbRWhWxGKy5k94qsB0Ee/view?usp=sharing">
                 <a className="mx-4" target="_blank" rel="noreferrer">
                   product offering
                 </a>
